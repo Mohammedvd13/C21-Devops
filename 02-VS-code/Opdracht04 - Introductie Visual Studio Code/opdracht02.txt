@@ -1,0 +1,7 @@
+opdracht02.txt
+
+minimap
+breadcrumbs
+side by side editing
+panels
+editor
